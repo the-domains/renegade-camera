@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Renegade Camera]]></title>
+        <description><![CDATA[Renegade Camera]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 16:02:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6468d43c-ea97-438d-afd3-4638b234f374.jpg">]]></description>
+            <link>undefined84497f91-316f-4a62-a39f-40e189741f71/index.html</link>
+            <guid isPermaLink="false">84497f91-316f-4a62-a39f-40e189741f71</guid>
+            <pubDate>Tue, 01 Mar 2016 16:01:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
